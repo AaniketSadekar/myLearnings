@@ -53,6 +53,13 @@ print(type(is_flag), is_flag)
 
 print()
 
+# None
+print("====== None Data Type ======")
+a = None
+print(type(a),a)
+
+print()
+
 # Dictionary
 print("====== Dictionary Data Type ======")
 d = {1:'One',2:'Two',3:'Three'}
